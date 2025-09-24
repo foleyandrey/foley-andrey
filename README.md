@@ -13,7 +13,9 @@
 </p>
 
 ## ¿Quién soy?
-Soy Foley Andrey Orellana Castro, ingeniero de sistemas, laborando en la parte estadistica <br>
+Soy Foley Andrey Orellana Castro, Ingeniero de sistemas, laborando en la parte estadistica de un Hospital de mi País<br>
+Soy de Perú, tengo 29 años, llevo 4 años trabajando en la parte de estadistica, manejando las bases que se utilizan acá <br>
+Estoy encargado del analisis y procesamiento de los datos
 Estoy empezando a capacitarme en el mundo del desarrollo web
 
 ### Gracias por visitar mi sitio
